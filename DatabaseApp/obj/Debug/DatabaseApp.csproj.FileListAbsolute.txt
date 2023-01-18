@@ -1,0 +1,16 @@
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.AssemblyReference.cache
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.exe
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.pdb
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.CopyComplete
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Migrations.InitialCreate.resources
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.GenerateResource.cache
+C:\Users\MRV\source\repos\C#\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Migrations.AddJobTest.resources
